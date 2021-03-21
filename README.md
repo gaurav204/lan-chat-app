@@ -12,3 +12,5 @@ The project is built using Netbeans IDE. To use this project, just clone the rep
  In the **Chat Window** box type the message you want to write and click on **Send**. The message will be sent to all the users who are online and are in the same Local Area Network.
 
 hi there i m using git/github for first time.
+
+Now i going to make second commit thank you!!!
